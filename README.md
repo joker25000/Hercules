@@ -22,6 +22,9 @@ $ python2 hercules.py
 ## ***Screenshot*** :
 <img src="https://i.imgur.com/XSDVqZw.png" width="80%"></img>
 
+## ***video tutorial***:
+[![ Hercules-Automated VPN Connect ](https://i.ytimg.com/vi/6sbkFGZpwHY/hqdefault.jpg)](https://www.youtube.com/watch?v=6sbkFGZpwHY&feature=youtu.be)
+
 ## ***About*** :
 
 $ Twitter : https://twitter.com/SecurityJoker
