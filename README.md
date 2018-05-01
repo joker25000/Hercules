@@ -20,7 +20,7 @@ $ cd Hercules
 $ python2 hercules.py
 
 ## ***Screenshot*** :
-<img src="https://i.imgur.com/XSDVqZw.png" width="40%"></img>
+<img src="https://i.imgur.com/XSDVqZw.png" width="60%"></img>
 
 ## ***About*** :
 
