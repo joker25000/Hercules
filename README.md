@@ -1,4 +1,4 @@
-#  ***Hercules*** - ***Automated VPN Connect***
+#  ***Hercules*** - ***Automated VPN Connect*** ✔️
 [![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Android.svg)]()
